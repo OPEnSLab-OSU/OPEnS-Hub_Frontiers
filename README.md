@@ -5,14 +5,26 @@ This is the Data, CAD, and Code archive for the OPEnS Hub Project for access by 
 
 
 
+## Development Boards
+
+
+
 ## Bill of Materials
 
 
 
-## Using the Loom Library
+## Getting Started
 
-Details on setting up Arduino IDE and Loom can be found [here](https://github.com/OPEnSLab-OSU/InternetOfAg/tree/master/Arduino_and_Loom_Setup)
+Details on setting up Arduino IDE and Loom can be found [here](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Arduino_and_Loom_Setup)
 
 Details on using Loom once setup (with examples) can be found [here](https://github.com/OPEnSLab-OSU/InternetOfAg/blob/master/ReadMe_Using_Loom.md)
 
-## Real-Time Clock
+## Supporting Files
+
+- Adafruit References
+- CAD Files
+- Field Data
+- Images
+- Wiring Diagram
+- PushingBox Guide
+
