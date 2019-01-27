@@ -21,10 +21,10 @@ Details on using Loom once setup (with examples) can be found [here](https://git
 
 ## Supporting Files
 
-- Adafruit References
-- CAD Files
-- Field Data
-- Images
-- Wiring Diagram
-- PushingBox Guide
+- [Adafruit References](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Adafruit%20Reference)
+- [CAD Files](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/CAD)
+- [Field Data](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Field%20Data)
+- [Images](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Images)
+- [Wiring]
+- [PushingBox Guide](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/PushingBox)
 
