@@ -3,7 +3,7 @@ This is the Data, CAD, and Code archive for the OPEnS Hub Project for access by 
 
 [Project Page](http://www.open-sensing.org/lora-hub)
 
-
+[Project Loom Repository](https://github.com/OPEnSLab-OSU/InternetOfAg) that this is a instance/subset of 
 
 ## Development Boards
 
