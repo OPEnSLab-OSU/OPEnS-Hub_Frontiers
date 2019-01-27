@@ -25,6 +25,6 @@ Details on using Loom once setup (with examples) can be found [here](https://git
 - [CAD Files](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/CAD)
 - [Field Data](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Field%20Data)
 - [Images](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Images)
-- [Wiring]
+- [Wiring](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Wiring)
 - [PushingBox Guide](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/PushingBox)
 
