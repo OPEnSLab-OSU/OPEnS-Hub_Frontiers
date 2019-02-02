@@ -7,7 +7,12 @@ This is the Data, CAD, and Code archive for the OPEnS Hub Project for access by 
 
 ## Development Boards
 
+This project used the Adafruit line of Development boards called "Feathers" and "Featherwings" 
 
+Specifically 
+* Adafruit's  M0 LoRa Feather
+* Adafruit's Ethernet FeatherWing 
+* Adafruit's Adalogger FeatherWing (Real-time Clock and SD Card)
 
 ## Bill of Materials
 
