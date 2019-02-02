@@ -13,7 +13,7 @@ This project used the Adafruit line of Development boards called [Feathers](http
 https
 
 Specifically 
-* Adafruit's  M0 LoRa Feather
+* [Adafruit's M0 LoRa RFM95 Feather](https://www.adafruit.com/product/3178) 
 * Adafruit's Ethernet FeatherWing 
 * Adafruit's Adalogger FeatherWing (Real-time Clock and SD Card)
 
