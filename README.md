@@ -7,7 +7,7 @@ This is the Data, CAD, and Code archive for the OPEnS Hub Project for access by 
 
 ## Development Boards
 
-This project used the Adafruit line of Development boards called "Feathers" and "Featherwings" 
+This project used the Adafruit line of Development boards called "[Feathers]"(https://www.adafruit.com/feather?gclid=EAIaIQobChMIz5DNofCb4AIVWB6tBh2Vhga1EAAYASAAEgLMxPD_BwE) and "[FeatherWings]"(https://www.adafruit.com/category/814)
 
 Specifically 
 * Adafruit's  M0 LoRa Feather
