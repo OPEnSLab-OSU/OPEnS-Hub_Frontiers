@@ -1,4 +1,6 @@
-# Arduino and Loom Setup Guide
+# Arduino and System Setup Guide
+
+Note: much of this set-up is following the Loom protocol developed for the Internet of Ag initative by the OPEnS lab. This language is unimportant for implementing this code base.
 
 ## IDE Setup
 
@@ -11,7 +13,7 @@
     - Make sure to install the Adafruit SAMD Boards
   - Install drivers if on Windows 7
 
-### **Download the Loom Library from GitHub**
+### **Download the Internet of Ag Library from GitHub**
 
 - Go to the [InternetOfAg](https://github.com/OPEnSLab-OSU/InternetOfAg) folder on GitHub (one directory above this one)
 
@@ -19,9 +21,9 @@
 
 - Unzip the downloaded file
 
-### **Install the Loom Dependencies**
+### **Install the projects Dependencies**
 
-The Loom dependecies are provided [here](https://github.com/OPEnSLab-OSU/InternetOfAg/tree/master/Dependencies)
+The all dependecies are provided [here](https://github.com/OPEnSLab-OSU/InternetOfAg/tree/master/Dependencies)
 
 **Mac/Linux**
 
@@ -62,7 +64,7 @@ The Arduino IDE editor is a bit limited, so if you want to use a different edito
 
 
 
-## Loom Setup and Usage
+## Setup and Usage
 
 **Opening the Code**
 
