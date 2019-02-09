@@ -20,7 +20,7 @@ Specifically
 
 
 ## Bill of Materials
-
+[BOM](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Adafruit%20Reference)
 
 
 ## Getting Started
