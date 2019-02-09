@@ -14,8 +14,10 @@ https
 
 Specifically 
 * [Adafruit's M0 LoRa RFM95 Feather](https://www.adafruit.com/product/3178) 
-* Adafruit's Ethernet FeatherWing 
-* Adafruit's Adalogger FeatherWing (Real-time Clock and SD Card)
+* [Adafruit's Ethernet FeatherWing ](https://www.adafruit.com/product/3201) 
+* [Adafruit's Adalogger FeatherWing (Real-time Clock and SD Card)](https://www.adafruit.com/product/2922) 
+
+
 
 ## Bill of Materials
 
