@@ -25,9 +25,9 @@ Specifically
 
 ## Getting Started
 
-Details on setting up Arduino IDE and Loom can be found [here](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Arduino_and_Loom_Setup)
+Details on setting up Arduino IDE and Code can be found [here](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Arduino_and_Loom_Setup)
 
-Details on using Loom once setup (with examples) can be found [here](https://github.com/OPEnSLab-OSU/InternetOfAg/blob/master/ReadMe_Using_Loom.md)
+Details on using the Code  once setup (with examples) can be found [here](https://github.com/OPEnSLab-OSU/InternetOfAg/blob/master/ReadMe_Using_Loom.md)
 
 ## Supporting Files
 
