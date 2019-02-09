@@ -10,7 +10,6 @@ This is the Data, CAD, and Code archive for the OPEnS Hub Project for access by 
 
 This project used the Adafruit line of Development boards called [Feathers](https://www.adafruit.com/feather?gclid=EAIaIQobChMIz5DNofCb4AIVWB6tBh2Vhga1EAAYASAAEgLMxPD_BwE) and [FeatherWings](https://www.adafruit.com/category/814)
 
-https
 
 Specifically 
 * [Adafruit's M0 LoRa RFM95 Feather](https://www.adafruit.com/product/3178) 
@@ -20,7 +19,7 @@ Specifically
 
 
 ## Bill of Materials
-[BOM](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/Adafruit%20Reference)
+[BOM](https://github.com/OPEnSLab-OSU/OPEnS-Hub_Frontiers/tree/master/BOM)
 
 
 ## Getting Started
