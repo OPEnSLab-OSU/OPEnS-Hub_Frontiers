@@ -34,7 +34,7 @@ Details on using the Code  once setup (with examples) can be found [here](https:
 
 ## Low Power & Real-Time Clock Support
 
-The Loom library supports two RTC devices:
+Our dependancy library supports two RTC devices:
 
 - [Adafruit DS3231](https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/)
 - [Adafruit PCF8523](https://learn.adafruit.com/adafruit-adalogger-featherwing)
@@ -65,7 +65,7 @@ Here are some details on the various modes:
 | -------------- | --------------- | ------------ |
 | Idle\_2        | Feather M0      | ~5 mA        |
 | Standby        | Feather M0      | ~0.7 mA      |
-| SLEEP\_FOREVER | Feather 32U4    | Untested     |
+
 
 #### Standby Operation
 
